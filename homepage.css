@@ -1,0 +1,9 @@
+h1 {
+  font-family: "lucida handwriting";
+  text-align: center;
+  font-size: 5vw;
+  font-weight: lighter;
+  font-kerning: normal;
+  background-color: skyblue;
+  margin: 0px
+}
